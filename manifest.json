@@ -1,7 +1,7 @@
 {
     "name": "Resolve All Issues Button",
     "description": "Resolves all issues in Gitlab",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "permissions": ["activeTab", "scripting"],
     "action": {
